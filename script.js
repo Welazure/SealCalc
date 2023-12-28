@@ -34,12 +34,20 @@ function main() {
                 sac2_amount = "Value too low";
             }
         } else {
-            if(sac1_value > sac2_value) {
-                sac1_amount = calculate(value, amount, sac1_value, sac2_value);
-                sac2_amount = amount -sac1_amount;
+            if((sac1_value + sac2_value) > value) {
+                if(sac1_value > sac2_value) {
+                    sac1_amount = calculate(value, amount, sac1_value, sac2_value);
+                    sac2_amount = amount -sac1_amount;
+                } else {
+                    sac2_amount = calculate(value, amount, sac2_value, sac1_value);
+                    sac1_amount = amount -sac2_amount;
+                }
+            } else if((sac1_value + sac2_value) === value){
+                sac1_amount = Math.round(amount/2);
+                sac2_amount = amount - sac1_amount;
             } else {
-                sac2_amount = calculate(value, amount, sac2_value, sac1_value);
-                sac1_amount = amount -sac2_amount;
+                sac1_amount = "Value too low";
+                sac2_amount = "Value too low";
             }
         }
     }
