@@ -1,0 +1,51 @@
+<head>
+	<title>Seal Cooking Calculator</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="script.js"></script>
+</head>
+<body><div class="container">
+	<div class="screen">
+		<div class="screen__content">
+			<form class="login">
+				<div class="row">
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="amount" onkeyup="main();" required/>
+						<span class="floating-label">Main Ingredient Amount</span>
+					</div>
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="value" onkeyup="main();" required/>
+						<span class="floating-label">Main Ingredient Value</span>
+					</div>
+				</div>
+				<div class="row">
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="sac1_value" onkeyup="main();" required/>
+						<span class="floating-label">Sacrifice #1 Value</span>
+					</div>
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="sac2_value" onkeyup="main();" required/>
+						<span class="floating-label">Sacrifice #2 Value</span>
+					</div>
+				</div>
+				<div class="row">
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="sac1_amount" onkeyup="main();" required/>
+						<span class="floating-label">Sacrifice #1 Amount</span>
+					</div>
+					<div class="login__field column">
+						<input type="text" class="login__input inputText" id="sac2_amount" onkeyup="main();" required/>
+						<span class="floating-label">Sacrifice #2 Amount</span>
+					</div>
+				</div>			
+			</form>
+
+		</div>
+		<div class="screen__background">
+			<span class="screen__background__shape screen__background__shape4"></span>
+			<span class="screen__background__shape screen__background__shape3"></span>		
+			<span class="screen__background__shape screen__background__shape2"></span>
+			<span class="screen__background__shape screen__background__shape1"></span>
+		</div>		
+	</div>
+</div>
+</body>
