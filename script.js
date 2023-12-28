@@ -12,7 +12,7 @@ function main() {
     } else {
         var sac2_amount = calculate(value, amount, sac2_value, sac1_value);
         var sac1_amount = amount - sac2_amount;
-        document.getElementById('sac1_amount').value = sac1_amount};
+        document.getElementById('sac1_amount').value = sac1_amount;
         document.getElementById('sac2_amount').value = sac2_amount;
     }
 }
