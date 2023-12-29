@@ -1,0 +1,542 @@
+{
+    "MB": [
+      {
+        "Ingredient": "(Max Blue) Snake Skin",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Blue) Lucky Card",
+        "Sacrifice": 1500
+      },
+      {
+        "Ingredient": "(Max Blue) Mark of Vampire",
+        "Sacrifice": 1600
+      },
+      {
+        "Ingredient": "(Max Blue) Bundle of Dreams",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Blue) Crystal of Keterre",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Blue) Hatchling's Scale",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Ammonite",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Blue) Crab Leg",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Blue) Aleph's Crystal",
+        "Sacrifice": 500
+      },
+      {
+        "Ingredient": "(Max Blue) Solarstone",
+        "Sacrifice": 1400
+      },
+      {
+        "Ingredient": "(Max Blue) Blue Crystal",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Golden Fur",
+        "Sacrifice": 400
+      },
+      {
+        "Ingredient": "(Max Blue) Dullahan's Tear",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Nitroglycerin",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Blue) Alloy Chain",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Fuse",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Mariel's Feather",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Minotaur's Passion",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Doll's Tear",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Blue) Dog's Nose",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Jason's Resentment",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Red Marble of Gork",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Shameless Wooden Board",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Cat Cry",
+        "Sacrifice": 1200
+      },
+      {
+        "Ingredient": "(Max Blue) Mermaid's Bubble",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Blue) Mark of Sun God",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Beetle's Mandibles",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Strong Rib",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Blue) Well-grilled Charcoal",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Imported Cigar",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Golem's Tears",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Quick Tempered Ghost",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Water Balloon",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Firing Red Eyes",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Silky Smooth Hair",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Piece of Torn Suit",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Piece of Broken Rock",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Crystal of Naga",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Broken Teacup",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Small-sized Engine",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Aiming Glass",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Snake's Tail",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Broken Pot",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Wet Peanut",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Gariel's Black Feather",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Blue) Champion's Belt",
+        "Sacrifice": 150
+      },
+      {
+        "Ingredient": "(Max Blue) Shining Horseshoe",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Fairy's Antenna",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Rusty Alloy Board",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Scrapped Armor",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Bee Sting",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Bee's antenna",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Broken Mask",
+        "Sacrifice": 900
+      },
+      {
+        "Ingredient": "(Max Blue) Tree Element",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Broken Handle",
+        "Sacrifice": 1400
+      },
+      {
+        "Ingredient": "(Max Blue) Broken Guitar String",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Mini Lamp",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Spirit of Martial Artist",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Miner's Sigh",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Blue) Eyeball Bomb",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Toluene",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Babybell",
+        "Sacrifice": 400
+      },
+      {
+        "Ingredient": "(Max Blue) Coolant",
+        "Sacrifice": 400
+      },
+      {
+        "Ingredient": "(Max Blue) Brilliant Blue Eyes",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Blue Bone",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Blue Horn",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Old Pumpkin",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Blue) Pheromone Cologne Bottle",
+        "Sacrifice": 50
+      }
+    ],
+    "MR": [
+      {
+        "Ingredient": "(Max Red) Iron Plate",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Red) Mithril",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Red) Crystal of Vinagh",
+        "Sacrifice": 500
+      },
+      {
+        "Ingredient": "(Max Red) Ice Crystal",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Red) Man's Romance",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Red) Crystal of Neza",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Sunflower Seed",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Light Panel",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Steel",
+        "Sacrifice": 1000
+      },
+      {
+        "Ingredient": "(Max Red) Soul of Swordsman",
+        "Sacrifice": 150
+      },
+      {
+        "Ingredient": "(Max Red) Soul of Snow Princess",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Soul of Holy Knight",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Soul of Jester",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Red) Heart of Golem",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Mark of Sakiel",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Red) Mark of Elios",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Hatchling's Tooth",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Rayshark's Fin",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Soul of Pirate",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Crustacean's Bone",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Foam of Crab",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Chameleon Skin",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Gariel's Feather",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Moonstone",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Crystal of Nixie",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Hot Blood",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Cat's Whiskers",
+        "Sacrifice": 900
+      },
+      {
+        "Ingredient": "(Max Red) Fish Bone",
+        "Sacrifice": 900
+      },
+      {
+        "Ingredient": "(Max Red) Titanium",
+        "Sacrifice": 800
+      },
+      {
+        "Ingredient": "(Max Red) Ceramic",
+        "Sacrifice": 700
+      },
+      {
+        "Ingredient": "(Max Red) Mysterious Crystal",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Red) Bone",
+        "Sacrifice": 400
+      },
+      {
+        "Ingredient": "(Max Red) Starfish",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Spirit of Cat",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Special Metal",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Sharp Tooth",
+        "Sacrifice": 700
+      },
+      {
+        "Ingredient": "(Max Red) Boiling Blood",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) Blue Blaze",
+        "Sacrifice": 500
+      },
+      {
+        "Ingredient": "(Max Red) Dullahan's Sign",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Snowflake",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Red) Dullahan's Sweat",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Platinum Antennae",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Sphinx's Nose",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Wolf Skin",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Ectoplasm",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Pharaoh's Curse",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Cold Heart",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Jason's heart",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Fallen Spirit",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Cow Skin",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Crystal of Grudge",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Premium Thread",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Dog's Bone",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Piece of Oldest Paulownia",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Chain of Darkness",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Oldest Bandage",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Rusty Gear",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Cactus Flower",
+        "Sacrifice": 700
+      },
+      {
+        "Ingredient": "(Max Red) Heart of Wind",
+        "Sacrifice": 400
+      },
+      {
+        "Ingredient": "(Max Red) Shell of Ostrich Egg",
+        "Sacrifice": 600
+      },
+      {
+        "Ingredient": "(Max Red) Fairy's Seduction",
+        "Sacrifice": 200
+      },
+      {
+        "Ingredient": "(Max Red) White Base",
+        "Sacrifice": 100
+      },
+      {
+        "Ingredient": "(Max Red) Eagle Feather",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Black Gooey Liquid",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Oil Barrel",
+        "Sacrifice": 50
+      },
+      {
+        "Ingredient": "(Max Red) Horn of Gork",
+        "Sacrifice": 50
+      }
+    ]
+  }
