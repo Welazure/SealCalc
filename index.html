@@ -9,7 +9,7 @@
 		<div class="screen__content">
 			<form class="login">
 				<div class="login__field">
-					<input list="name" name="name" id="namee" class="login__input2 inputText" onfocus="this.value='';" onchange="this.blur(); changeValue(); main();" required>
+					<input list="name" name="name" id="namee" class="login__input2 inputText" onfocus="this.value='';" onfocusout="changeValue();" onchange="this.blur(); changeValue(); main();" required>
 					<span class="floating-label">Bahan Utama</span>
 					<datalist id="name">
 					</datalist>
