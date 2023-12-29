@@ -119,7 +119,7 @@ function changeValue() {
                 break;
             }
         }
-    } else if(value === '') {
+    } else if(obj2 === '') {
         document.getElementById('value').value = 0;
     }
 }
