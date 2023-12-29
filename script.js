@@ -1,6 +1,8 @@
-function main() {
+json = 0;
+
+function main(value) {
     amount = parseInt(document.getElementById('amount').value);
-    value = parseInt(document.getElementById('value').value);
+    value = parseInt(document.getElementById('value').value.replace(/Terpilih: /g, ''));
     sac1_value = parseInt(document.getElementById('sac1_value').value);
     sac2_value = parseInt(document.getElementById('sac2_value').value);
     
@@ -69,6 +71,53 @@ function calculate(value, amount, sac1_value, sac2_value) {
         }
 
     }
-    console.log("end");
+    console.log("CRITICAL ERROR");
     return 1000;
+}
+
+async function load() {
+    const response = await fetch("./data.json");
+    json = await response.json();
+
+    selected = document.getElementById("name");
+    optgroup = document.createElement('optgroup');
+    optgroup.label = "Max Blue";
+    for(let i in json.MB) {
+        opt = document.createElement('option');
+        opt.value = json.MB[i].Ingredient;
+        opt.innerHTML = json.MB[i].Sacrifice;
+        optgroup.append(opt);
+    }
+
+    newoptgroup = document.createElement('optgroup');
+    newoptgroup.label = "Max Red";
+    for(let i in json.MR) {
+        opt = document.createElement('option');
+        opt.value = json.MR[i].Ingredient;
+        opt.innerHTML = json.MR[i].Sacrifice;
+        newoptgroup.append(opt);
+    }
+
+    selected.append(newoptgroup);
+    selected.append(optgroup);
+}
+
+function changeValue() {
+    obj = document.getElementById('value');
+    obj2 = document.getElementById('namee').value;
+    if(obj2.includes("Max Blue")) {
+        for(let i in json.MB) {
+            if(json.MB[i].Ingredient === obj2) {
+                obj.value = `Terpilih: ${json.MB[i].Sacrifice}`;
+                break;
+            }
+        }
+    } else if(obj2.includes("Max Red")) {
+        for(let i in json.MR) {
+            if(json.MR[i].Ingredient === obj2) {
+                obj.value = `Terpilih: ${json.MR[i].Sacrifice}`;
+                break;
+            }
+        }
+    }
 }
