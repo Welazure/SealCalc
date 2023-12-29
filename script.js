@@ -120,6 +120,6 @@ function changeValue() {
             }
         }
     } else if(obj2 === '') {
-        document.getElementById('value').value = 0;
+        document.getElementById('value').value = "";
     }
 }
