@@ -3,49 +3,56 @@
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<script src="script.js"></script>
 </head>
-<body><div class="container">
+<body onload="load();">
+	<div class="container">
 	<div class="screen">
 		<div class="screen__content">
 			<form class="login">
+				<div class="login__field">
+					<input list="name" name="name" id="namee" class="login__input2 inputText" onfocus="this.value='';" onchange="this.blur(); changeValue(); main();" required>
+					<span class="floating-label">Bahan Utama</span>
+					<datalist id="name">
+					</datalist>
+				</div>
 				<div class="row">
 					<div class="login__field column">
 						<input type="text" class="login__input inputText" id="amount" onkeyup="main();" required/>
-						<span class="floating-label">Main Ingredient Amount</span>
+						<span class="floating-label">Jumlah Bahan Utama</span>
 					</div>
 					<div class="login__field column">
-						<input type="text" class="login__input inputText" id="value" onkeyup="main();" required/>
-						<span class="floating-label">Main Ingredient Value</span>
+						<input type="text" class="login__input inputText" id="value" onkeyup="main(this.value);" required/>
+						<span class="floating-label">Harga Bahan Utama</span>
 					</div>
 				</div>
 				<div class="row">
 					<div class="login__field column">
 						<input type="text" class="login__input inputText" id="sac1_value" onkeyup="main();" required/>
-						<span class="floating-label">Sacrifice #1 Value</span>
+						<span class="floating-label">Harga Tumbal #1</span>
 					</div>
 					<div class="login__field column">
 						<input type="text" class="login__input inputText" id="sac2_value" onkeyup="main();" required/>
-						<span class="floating-label">Sacrifice #2 Value</span>
+						<span class="floating-label">Harga Tumbal #2</span>
 					</div>
 				</div>
 				<div class="row">
 					<div class="login__field column">
 						<input type="text" class="login__input inputText" id="sac1_amount" onkeyup="main();" required/>
-						<span class="floating-label">Sacrifice #1 Amount</span>
+						<span class="floating-label">Jumlah Tumbal #1</span>
 					</div>
 					<div class="login__field column">
 						<input type="text" class="login__input inputText" id="sac2_amount" onkeyup="main();" required/>
-						<span class="floating-label">Sacrifice #2 Amount</span>
+						<span class="floating-label">Jumlah Tumbal #2</span>
 					</div>
 				</div>			
 			</form>
 
 		</div>
-		<div class="screen__background">
-			<span class="screen__background__shape screen__background__shape4"></span>
-			<span class="screen__background__shape screen__background__shape3"></span>		
-			<span class="screen__background__shape screen__background__shape2"></span>
-			<span class="screen__background__shape screen__background__shape1"></span>
-		</div>		
+			<div class="screen__background">
+				<span class="screen__background__shape screen__background__shape4"></span>
+				<span class="screen__background__shape screen__background__shape3"></span>		
+				<span class="screen__background__shape screen__background__shape2"></span>
+				<span class="screen__background__shape screen__background__shape1"></span>
+			</div>		
+		</div>
 	</div>
-</div>
 </body>
