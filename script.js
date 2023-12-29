@@ -119,5 +119,7 @@ function changeValue() {
                 break;
             }
         }
+    } else if(value === '') {
+        document.getElementById('value').value = 0;
     }
 }
