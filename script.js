@@ -105,9 +105,10 @@ async function load() {
         opt.innerHTML = json.HB[i].Sacrifice;
         newnewoptgroup.append(opt);
     }
-    selected.append(newnewoptgroup);
+
     selected.append(newoptgroup);
     selected.append(optgroup);
+    selected.append(newnewoptgroup);
 }
 
 function changeValue() {
