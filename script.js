@@ -45,8 +45,8 @@ function main(value) {
                     sac1_amount = amount -sac2_amount;
                 }
             } else if((sac1_value + sac2_value) === value){
-                sac1_amount = Math.round(amount/2);
-                sac2_amount = amount - sac1_amount;
+                sac1_amount = amount;
+                sac2_amount = amount;
             } else {
                 sac1_amount = "Value too low";
                 sac2_amount = "Value too low";
@@ -97,7 +97,15 @@ async function load() {
         opt.innerHTML = json.MR[i].Sacrifice;
         newoptgroup.append(opt);
     }
-
+    newnewoptgroup = document.createElement('optgroup');
+    newnewoptgroup.label = "Max Red";
+    for(let i in json.HB) {
+        opt = document.createElement('option');
+        opt.value = json.HB[i].Ingredient;
+        opt.innerHTML = json.HB[i].Sacrifice;
+        newnewoptgroup.append(opt);
+    }
+    selected.append(newnewoptgroup);
     selected.append(newoptgroup);
     selected.append(optgroup);
 }
