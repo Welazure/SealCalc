@@ -538,5 +538,83 @@
         "Ingredient": "(Max Red) Horn of Gork",
         "Sacrifice": 50
       }
+    ],
+        "HB": [
+    {
+      "Ingredient": "Silver",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Vampire's canine",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Man's senility",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Crystal of Hokma",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Crystal of Hesed",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Adel's blessing",
+      "Sacrifice": 400
+     },
+     {
+      "Ingredient": "Fairy's powder",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Mark of Hokma",
+      "Sacrifice": 50
+     },
+     {
+      "Ingredient": "Crystal of Sakiel",
+      "Sacrifice": 50
+     },
+     {
+      "Ingredient": "Bell",
+      "Sacrifice": 700
+     },
+     {
+      "Ingredient": "Vine",
+      "Sacrifice": 100
+     },
+     {
+      "Ingredient": "Piece of Glass",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Really Hard Shell",
+      "Sacrifice": 100
+     },
+     {
+      "Ingredient": "Motherly devotion",
+      "Sacrifice": 200
+     },
+     {
+      "Ingredient": "Mother's Heart",
+      "Sacrifice": 100
+     },
+     {
+      "Ingredient": "Curse of Cat",
+      "Sacrifice": 100
+     },
+     {
+      "Ingredient": "Poisonous nails",
+      "Sacrifice": 100
+     },
+     {
+      "Ingredient": "Grain of Sand",
+      "Sacrifice": 60
+     },
+     {
+      "Ingredient": "Large Horns",
+      "Sacrifice": 170
+     }
     ]
   }
