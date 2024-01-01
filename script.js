@@ -128,6 +128,13 @@ function changeValue() {
                 break;
             }
         }
+    } else if(obj2.includes("High Blue")) {
+        for(let i in json.HB) {
+            if(json.HB[i].Ingredient === obj2) {
+                obj.value = `Terpilih: ${json.HB[i].Sacrifice}`;
+                break;
+            }
+        }
     } else if(obj2 === '') {
         document.getElementById('value').value = "";
     }
