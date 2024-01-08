@@ -13,8 +13,7 @@ function main(value) {
     if (!amount || !value) {
         sac1_amount = "";
         sac2_amount = "";
-    } else
-    if (sac1_filled && !sac2_filled) { //if sac1 is filled and sac 2 is not filled
+    } else if (sac1_filled && !sac2_filled) { //if sac1 is filled and sac 2 is not filled
         if (sac1_value < value) { // only sac1 available and is not enough
             sac1_amount = "Value too low";
             sac2_amount = 0;
