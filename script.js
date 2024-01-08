@@ -139,3 +139,7 @@ function changeValue() {
         document.getElementById('value').value = "";
     }
 }
+
+function update() {
+    document.getElementById('Namee').value = "";
+}
