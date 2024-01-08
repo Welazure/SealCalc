@@ -1,10 +1,11 @@
 json = 0;
 
 function main(value) {
-    amount = document.getElementById('amount').value;
-    value = document.getElementById('value').value.replace(/Terpilih: /g, '');
-    sac1_value = document.getElementById('sac1_value').value;
-    sac2_value = document.getElementById('sac2_value').value;
+    amount = parseInt(document.getElementById('amount').value);
+    value = parseInt(document.getElementById('value').value.replace(/Terpilih: /g, ''));
+    sac1_value = parseInt(document.getElementById('sac1_value').value);
+    sac2_value = parseInt(document.getElementById('sac2_value').value);
+
 
 
     sac1_filled = (sac1_value > 0);
