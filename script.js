@@ -106,7 +106,7 @@ async function load() {
         newoptgroup.append(opt);
     }
     newnewoptgroup = document.createElement('optgroup');
-    newnewoptgroup.label = "Max Red";
+    newnewoptgroup.label = "High Blue";
     for (let i in json.HB) {
         opt = document.createElement('option');
         opt.value = json.HB[i].Ingredient;
